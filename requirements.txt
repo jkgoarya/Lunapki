@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+joblib
+logging
+binance
+matplotlib
+mpl_toolkits
+os
+imblearn
+ta
+shap
+optuna
