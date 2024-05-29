@@ -48,7 +48,7 @@ Configuration
 Update the configuration settings in scripts/config.py with your Binance API credentials and other parameters.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/jkgoarya/Lunapki/blob/main/LICENSE) file for details.
 
 Contributing
 Feel free to submit issues and pull requests. For major changes, please open an issue first to discuss what you would like to change.
