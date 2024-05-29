@@ -94,12 +94,6 @@ Lunapki/
 ├── reorganize_project.sh   # Script to organize project files
 ├── venv/                   # Python virtual environment
 
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-License
-This project is licensed under the MIT License.
-
 
 bash
 Copy code
@@ -112,23 +106,43 @@ Copy code
    git clone https://github.com/your-username/Lunapki.git
    cd Lunapki
 
-Create a new branch for your feature or bugfix:
-bash
 
 Copy code
-git checkout -b feature-name
 
-Make your changes and commit them with a clear message:
+### Submitting a Pull Request
 
-bash
-Copy code
-git add .
-git commit -m "Description of the feature or fix"
+1. **Fork the repository** on GitHub.
+2. **Clone your fork** to your local machine:
+   ```bash
+   git clone https://github.com/your-username/Lunapki.git
+   cd Lunapki
 
-Push your changes to your fork on GitHub:
-
-bash
-Copy code
-git push origin feature-name
 Open a pull request on the original repository and provide a detailed description of your changes.
 This README file should provide a clear guide for anyone looking to understand, install, and contribute to your project. If you need further customization or additional sections, let me know!
+
+Additional Steps for Organizing and Running Your Project
+Ensure that the preprocessed data file preprocessed_data.csv is in the data/ directory before running the training or bot scripts. You can also add specific details about your project to the README file to make it more informative.
+
+Feel free to let me know if you need any more adjustments or additions to the README or any other part of your project!
+
+MIT License
+
+Copyright (c) 2024 [Gorkem Berke Yuksel]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
