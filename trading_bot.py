@@ -12,8 +12,8 @@ import os
 logging.basicConfig(filename='trading_bot.log', level=logging.DEBUG, format='%(asctime)s %(message)s')
 
 # Binance API credentials (replace with your own)
-api_key = 'VuWGlq8yFXYi9Uv68PYOCefAmOD9XzVWMYyafKnK9lhObrBVH3bcMPqv334aoamV'
-api_secret = 'jFcly53Oz9OmjRBkZ7o9sqWtyIYHtQdgmL7vmHd9WBAeg5fTI68qjBBLAq4VLlmM'
+api_key = 
+api_secret =
 
 # Initialize Binance client
 client = Client(api_key, api_secret)
